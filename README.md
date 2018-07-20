@@ -9,7 +9,7 @@ Generate color code from a string.
 composer require michimani/text-to-color
 ```
 
-or require the main file.
+and require the main file.
 
 ```php
 require_once('./txt2color.php');
