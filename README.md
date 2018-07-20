@@ -3,7 +3,13 @@ Generate color code from a string.
 
 # How to use
 
-1. require the main file.
+1. install using composer
+
+```console
+composer require michimani/text-to-color
+```
+
+or require the main file.
 
 ```php
 require_once('./txt2color.php');
