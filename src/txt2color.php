@@ -1,4 +1,12 @@
 <?php
+    namespace Michimani\TextToColor;
+
+    /**
+     * This is a simple php class for generating color code from text.
+     *
+     * @author meiner2_10@me.com
+     *
+     */
     class TextToColor
     {
         // random value
